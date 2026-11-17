@@ -1,7 +1,8 @@
 
 <h1 align="center"> <br> <img src="assets/gyre.png" alt="Gyre V1" width="200"> <br> Gyre V1 <br> </h1> <h4 align="center"> A Raspberry Pi Pico-sized ESP32-S3 development board with a live 3D orientation view and voice control for LED strips! </h4> <div align="center">
 
-[KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) [ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) 
+![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div> <p align="center"> <a href="#key-features">Key Features</a> • <a href="#how-it-works">How it works</a> • <a href="#pcb">PCB</a> • <a href="#credits">Credits</a> • <a href="#license">License</a> </p> <img src="assets/banner.png" alt="Gyre Banner" width="800"/>
 
