@@ -4,11 +4,11 @@
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) 
 ![ESP32-S3](https://img.shields.io/badge/ESP32--S3-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-</div> <p align="center"> <a href="#key-features">Key Features</a> • <a href="#how-it-works">How it works</a> • <a href="#pcb">PCB</a> • <a href="#credits">Credits</a> • <a href="#license">License</a> </p> <img src="assets/banner.png" alt="Gyre Banner" width="800"/>
+</p> <img src="assets/banner.png" alt="Gyre Banner" width="800"/>
 
 > **🚧 Work in progress:** Gyre is in the design stage. The schematic is being drawn and nothing has been built or tested yet, so everything below describes the plan for V1.
 
-## Key Features
+## Features
 
 -   **ESP32-S3-MINI-1** module with WiFi, Bluetooth and native USB
 -   **Live 3D view** - a 6-axis IMU drives a web page that rotates a 3D model of the board in real time, over USB
@@ -20,7 +20,7 @@
 -   **Three status LEDs** - PWR, USR (for your own code) and ACT (blinks on activity)
 -   **4-layer PCB** with a black solder mask and gold (ENIG) pads
 
-## How it works
+## Functionality
 
 ### Live 3D view
 
