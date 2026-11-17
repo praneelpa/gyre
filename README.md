@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="assets/gyre.png" alt="Gyre V1" width="200">
+  <img src="assets/gyre.png" alt="Gyre V1" width="600">
   <br>
   Gyre V1
   <br>
