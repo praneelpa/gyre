@@ -59,7 +59,7 @@ Designed in KiCad. The board uses a 4-layer stackup (SIG/GND/PWR/SIG) with a bla
 
 ### Schematic
 
-<img src="assets/schematic.png" alt="Schematic" width="800"/>
+<img src="assets/schematic.svg" alt="Schematic" width="800"/>
 
 ### PCB Layers
 
