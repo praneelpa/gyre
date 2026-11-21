@@ -1,4 +1,4 @@
-26779264011742894
+26784649019416907
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106623,6 +106623,13 @@ SW-SMD_L3.9-W3.0-P4.45
 0
 2
 2
+easyeda
+USB-C-SMD_TYPE-C-16PIN-2MD-073
+
+
+0
+18
+14
 footprints
 CAP_RCER72A105K2DBH03A
 
@@ -106771,9 +106778,23 @@ SW-SMD_L3.9-W2.9-LS4.8
 2
 2
 lcsc
+SW-SMD_L3.9-W3.0-P4.45
+
+
+0
+2
+2
+lcsc
 TYPE-C-SMD_TYPE-C-6P_1
 
 
 0
 10
 7
+lcsc
+USB-C-SMD_TYPE-C-16PIN-2MD-073
+
+
+0
+18
+14
