@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">
-  A Raspberry Pi Pico-sized ESP32-S3 development board with a live 3D orientation view and voice control for LED strips!
+  An ESP32-S3 development board with a live 3D orientation view and voice control for LED strips!
 </h4>
 
 <p align="center">
@@ -81,11 +81,11 @@ Designed in KiCad. The board uses a 4-layer stackup (SIG/GND/PWR/SIG) with a bla
 
 **Front:**
 
-<img src="assets/pcb_front.png" alt="PCB Front" width="800"/>
+<img src="assets/front.png" alt="PCB Front" width="800"/>
 
 **Back:**
 
-<img src="assets/pcb_back.png" alt="PCB Back" width="800"/>
+<img src="assets/back.png" alt="PCB Back" width="800"/>
 
 ### JLCPCB Order
 
