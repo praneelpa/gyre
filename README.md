@@ -20,7 +20,7 @@
   <img src="assets/banner.png" alt="Gyre Banner" width="800">
 </p>
 
-> **🚧 Work in progress:** Gyre is in the design stage. The schematic is being drawn and nothing has been built or tested yet, so everything below describes the plan for V1.
+> **🚧 Work in progress:** Gyre is in the design stage. The PCB routing has been completed, but nothing has been built or tested yet.
 
 ## Features
 
