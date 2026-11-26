@@ -63,7 +63,7 @@ Designed in KiCad. The board uses a 4-layer stackup (SIG/GND/PWR/SIG) with a bla
 
 ### PCB Layers
 
-**Layer 1 (Signal):**
+**Layer 1 (F.Cu):**
 
 <img src="assets/layer_1.png" alt="PCB Layer 1" width="800"/>
 
@@ -71,25 +71,23 @@ Designed in KiCad. The board uses a 4-layer stackup (SIG/GND/PWR/SIG) with a bla
 
 <img src="assets/layer_2.png" alt="PCB Layer 2" width="800"/>
 
-**Layer 3 (Power):**
+**Layer 3 (+3.3V):**
 
 <img src="assets/layer_3.png" alt="PCB Layer 3" width="800"/>
 
-**Layer 4 (Signal):**
+**Layer 4 (B.Cu):**
 
 <img src="assets/layer_4.png" alt="PCB Layer 4" width="800"/>
 
-**Front:**
+**Front View:**
 
 <img src="assets/front.png" alt="PCB Front" width="800"/>
 
-**Back:**
+**Back View:**
 
 <img src="assets/back.png" alt="PCB Back" width="800"/>
 
-### JLCPCB Order
-
-<img src="assets/jlcpcb.png" alt="JLCPCB Order" width="800"/>
+### BOM
 
 ## Credits
 
