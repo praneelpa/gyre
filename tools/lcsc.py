@@ -6,9 +6,10 @@ import subprocess
 from pathlib import Path
 
 def main():
-    base_dir = Path.cwd();
-    if (base_dir / "lcsc.txt").is_file():
-        input_file = base_dir / "lcsc.txt"
+    tools_dir = Path(__file__).resolve().parent
+    base_dir = tools_dir.parent  # repo root: symbols/ and footprints/ stay here
+    if (tools_dir / "lcsc.txt").is_file():
+        input_file = tools_dir / "lcsc.txt"
     else:
         print("Error cannot find file.")
         return 1
