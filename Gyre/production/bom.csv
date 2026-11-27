@@ -1,4 +1,4 @@
-Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Designator,Footprint,Order Qty,LCSC Part Number
+﻿Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Designator,Footprint,Order Qty,LCSC Part Number
 10u,Part,1,0.422,0.422,https://www.lcsc.com/product-detail/C1713.html,LCSC,Grant,,C1,0805,20,C1713
 0.1u,Part,5,0.278,1.39,https://www.lcsc.com/product-detail/C49678.html,LCSC,Grant,,"C10, C11, C12, C4, C7",0805,20,C49678
 1u,Part,1,0.524,0.524,https://www.lcsc.com/product-detail/C24123.html,LCSC,Grant,,C3,0805,20,C24123
@@ -24,4 +24,5 @@ ICM-42688-P,Part,1,3.66,3.66,https://www.lcsc.com/product-detail/C54308212.html,
 ICS-43434_C5656610,Part,1,4.2908,4.2908,https://www.lcsc.com/product-detail/C5656610.html,LCSC,Grant,,U4,MIC-SMD_6P-L3.5-W2.7-P0.90-BL,1,C5656610
 74AHCT1G125GV,Part,1,0.0734,0.0734,https://www.lcsc.com/product-detail/C52140417.html,LCSC,Grant,,U5,SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL,1,C52140417
 TYPE-C 16PIN 2MD,Part,1,1.39,1.39,https://www.lcsc.com/product-detail/C2765186.html,LCSC,Grant,,USB1,USB-C-SMD_TYPE-C-16PIN-2MD-073,20,C2765186
-Total,,,,27.4244,,,,,,,,
+PCB,PCB,1,22.98,22.98,,JLCPCB,Grant,,,,,
+Total,,,,50.4044,,,,,,,,
