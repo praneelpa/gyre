@@ -1,4 +1,4 @@
-﻿Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Designator,Footprint,Order Qty,LCSC Part Number
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes,Designator,Footprint,Order Qty,LCSC Part Number
 10u,Part,1,0.422,0.422,https://www.lcsc.com/product-detail/C1713.html,LCSC,Grant,,C1,0805,20,C1713
 0.1u,Part,5,0.278,1.39,https://www.lcsc.com/product-detail/C49678.html,LCSC,Grant,,"C10, C11, C12, C4, C7",0805,20,C49678
 1u,Part,1,0.524,0.524,https://www.lcsc.com/product-detail/C24123.html,LCSC,Grant,,C3,0805,20,C24123
