@@ -88,34 +88,34 @@ Designed in KiCad. The board uses a 4-layer stackup (SIG/GND/PWR/SIG) with a bla
 <img src="assets/back.png" alt="PCB Back" width="800"/>
 
 ### BOM
-| Designator            | Footprint                         | Qty Per Board | Order Qty | Value              | Price   | LCSC Part Number | LCSC Part Link                                     |
-|-----------------------|-----------------------------------|---------------|-----------|--------------------|---------|------------------|----------------------------------------------------|
-| C1                    | 0805                              | 1             | 20        | 10u                | $0.4220 | C1713            | https://www.lcsc.com/product-detail/C1713.html     |
-| C10, C11, C12, C4, C7 | 0805                              | 5             | 20        | 0.1u               | $0.2780 | C49678           | https://www.lcsc.com/product-detail/C49678.html    |
-| C3                    | 0805                              | 1             | 20        | 1u                 | $0.5240 | C24123           | https://www.lcsc.com/product-detail/C24123.html    |
-| C5                    | 0805                              | 1             | 10        | 22u                | $0.2190 | C29277           | https://www.lcsc.com/product-detail/C29277.html    |
-| C8                    | 0805                              | 1             | 100       | 10n                | $0.6600 | C282728          | https://www.lcsc.com/product-detail/C282728.html   |
-| C9                    | 0805                              | 1             | 20        | 2.2u               | $0.9680 | C1731            | https://www.lcsc.com/product-detail/C1731.html     |
-| D1                    | SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL | 1             | 5         | USBLC6-2SC6        | $0.7680 | C7519            | https://www.lcsc.com/product-detail/C7519.html     |
-| D2                    | 0805                              | 1             | 50        | ACT red            | $0.6300 | C84256           | https://www.lcsc.com/product-detail/C84256.html    |
-| D3                    | 0805                              | 1             | 100       | USR blue           | $0.5900 | C7496833         | https://www.lcsc.com/product-detail/C7496833.html  |
-| D4                    | 0805                              | 1             | 50        | VOICE white        | $0.4150 | C55072219        | https://www.lcsc.com/product-detail/C55072219.html |
-| J1, J2, J3, J4        | PinHeaders_1x40_P2.54mm_Vertical  | 2             | 5         | Conn_01x40         | $0.8160 | C2337            | https://www.lcsc.com/product-detail/C2337.html     |
-| R1, R2                | 0805                              | 2             | 100       | 5.1K               | $0.2900 | C27834           | https://www.lcsc.com/product-detail/C27834.html    |
-| R10, R11              | 0805                              | 2             | 100       | 100                | $0.3500 | C105577          | https://www.lcsc.com/product-detail/C105577.html   |
-| R3, R6, R8            | 0805                              | 3             | 100       | 10k                | $0.3200 | C17414           | https://www.lcsc.com/product-detail/C17414.html    |
-| R4                    | 0805                              | 1             | 100       | 499                | $0.2300 | C2933453         | https://www.lcsc.com/product-detail/C2933453.html  |
-| R5                    | 0805                              | 1             | 100       | 100k               | $0.3600 | C149504          | https://www.lcsc.com/product-detail/C149504.html   |
-| R7, R9                | 0805                              | 2             | 100       | 330                | $0.2500 | C2930157         | https://www.lcsc.com/product-detail/C2930157.html  |
-| SW1                   | SW-SMD_L3.9-W2.9-LS4.8            | 1             | 5         | BOOT               | $0.4295 | C596279          | https://www.lcsc.com/product-detail/C596279.html   |
-| SW2                   | SW-SMD_L3.9-W2.9-LS4.8            | 1             | 5         | RESET              | $0.4295 | C596279          | https://www.lcsc.com/product-detail/C596279.html   |
-| U1                    | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL | 1             | 5         | AP2112K-3.3TRG1    | $0.8415 | C51118           | https://www.lcsc.com/product-detail/C51118.html    |
-| U2                    | BULETM-SMD_ESP32-S3-MINI-1-N8     | 1             | 1         | ESP32-S3-MINI-1-N8 | $4.7617 | C2913206         | https://www.lcsc.com/product-detail/C2913206.html  |
-| U3                    | LGA-14_L3.0-W2.5-P0.50-TL         | 1             | 2         | ICM-42688-P        | $3.6600 | C54308212        | https://www.lcsc.com/product-detail/C54308212.html |
-| U4                    | MIC-SMD_6P-L3.5-W2.7-P0.90-BL     | 1             | 1         | ICS-43434_C5656610 | $4.2908 | C5656610         | https://www.lcsc.com/product-detail/C5656610.html  |
-| U5                    | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL | 1             | 1         | 74AHCT1G125GV      | $0.0734 | C52140417        | https://www.lcsc.com/product-detail/C52140417.html |
-| USB1                  | USB-C-SMD_TYPE-C-16PIN-2MD-073    | 1             | 20        | TYPE-C 16PIN 2MD   | $1.3900 | C2765186         | https://www.lcsc.com/product-detail/C2765186.html  |
 
+| Designator | Footprint | Qty Per Board | Order Qty | Value | Price | LCSC Part |
+|---|---|---|---|---|---|---|
+| C1 | 0805 | 1 | 20 | 10u | $0.4220 | [C1713](https://www.lcsc.com/product-detail/C1713.html) |
+| C10, C11, C12, C4, C7 | 0805 | 5 | 20 | 0.1u | $0.2780 | [C49678](https://www.lcsc.com/product-detail/C49678.html) |
+| C3 | 0805 | 1 | 20 | 1u | $0.5240 | [C24123](https://www.lcsc.com/product-detail/C24123.html) |
+| C5 | 0805 | 1 | 10 | 22u | $0.2190 | [C29277](https://www.lcsc.com/product-detail/C29277.html) |
+| C8 | 0805 | 1 | 100 | 10n | $0.6600 | [C282728](https://www.lcsc.com/product-detail/C282728.html) |
+| C9 | 0805 | 1 | 20 | 2.2u | $0.9680 | [C1731](https://www.lcsc.com/product-detail/C1731.html) |
+| D1 | SOT-23-6_L2.9-W1.6-P0.95-LS2.8-BL | 1 | 5 | USBLC6-2SC6 | $0.7680 | [C7519](https://www.lcsc.com/product-detail/C7519.html) |
+| D2 | 0805 | 1 | 50 | ACT red | $0.6300 | [C84256](https://www.lcsc.com/product-detail/C84256.html) |
+| D3 | 0805 | 1 | 100 | USR blue | $0.5900 | [C7496833](https://www.lcsc.com/product-detail/C7496833.html) |
+| D4 | 0805 | 1 | 50 | VOICE white | $0.4150 | [C55072219](https://www.lcsc.com/product-detail/C55072219.html) |
+| J1, J2, J3, J4 | PinHeaders_1x40_P2.54mm_Vertical | 2 | 5 | Conn_01x40 | $0.8160 | [C2337](https://www.lcsc.com/product-detail/C2337.html) |
+| R1, R2 | 0805 | 2 | 100 | 5.1K | $0.2900 | [C27834](https://www.lcsc.com/product-detail/C27834.html) |
+| R10, R11 | 0805 | 2 | 100 | 100 | $0.3500 | [C105577](https://www.lcsc.com/product-detail/C105577.html) |
+| R3, R6, R8 | 0805 | 3 | 100 | 10k | $0.3200 | [C17414](https://www.lcsc.com/product-detail/C17414.html) |
+| R4 | 0805 | 1 | 100 | 499 | $0.2300 | [C2933453](https://www.lcsc.com/product-detail/C2933453.html) |
+| R5 | 0805 | 1 | 100 | 100k | $0.3600 | [C149504](https://www.lcsc.com/product-detail/C149504.html) |
+| R7, R9 | 0805 | 2 | 100 | 330 | $0.2500 | [C2930157](https://www.lcsc.com/product-detail/C2930157.html) |
+| SW1 | SW-SMD_L3.9-W2.9-LS4.8 | 1 | 5 | BOOT | $0.4295 | [C596279](https://www.lcsc.com/product-detail/C596279.html) |
+| SW2 | SW-SMD_L3.9-W2.9-LS4.8 | 1 | 5 | RESET | $0.4295 | [C596279](https://www.lcsc.com/product-detail/C596279.html) |
+| U1 | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL | 1 | 5 | AP2112K-3.3TRG1 | $0.8415 | [C51118](https://www.lcsc.com/product-detail/C51118.html) |
+| U2 | BULETM-SMD_ESP32-S3-MINI-1-N8 | 1 | 1 | ESP32-S3-MINI-1-N8 | $4.7617 | [C2913206](https://www.lcsc.com/product-detail/C2913206.html) |
+| U3 | LGA-14_L3.0-W2.5-P0.50-TL | 1 | 2 | ICM-42688-P | $3.6600 | [C54308212](https://www.lcsc.com/product-detail/C54308212.html) |
+| U4 | MIC-SMD_6P-L3.5-W2.7-P0.90-BL | 1 | 1 | ICS-43434_C5656610 | $4.2908 | [C5656610](https://www.lcsc.com/product-detail/C5656610.html) |
+| U5 | SOT-25-5_L2.9-W1.6-P0.95-LS2.8-BL | 1 | 1 | 74AHCT1G125GV | $0.0734 | [C52140417](https://www.lcsc.com/product-detail/C52140417.html) |
+| USB1 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | 1 | 20 | TYPE-C 16PIN 2MD | $1.3900 | [C2765186](https://www.lcsc.com/product-detail/C2765186.html) |
 
 ## Credits
 
